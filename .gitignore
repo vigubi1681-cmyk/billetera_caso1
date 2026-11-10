@@ -1,0 +1,17 @@
+# Archivos generados por Maven (incluye archivo .war)
+target/
+
+# Reportes de caída de Java
+hs_err_pid*.log
+
+# Configuración de editores
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
